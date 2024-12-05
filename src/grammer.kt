@@ -66,8 +66,5 @@ fun main() {
         j++ //インクリメント・デクリメントを忘れずに
     }
 
-    var s = 6
-    var v = 3
-    s = s + v + ++s
-    println(s)
+
 }
